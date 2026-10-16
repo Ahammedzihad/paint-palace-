@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80">
+  <rect x="10" y="16" width="140" height="48" fill="#FFC72C" rx="4"/>
+  <!-- Mascot silhouette / face with yellow construction helmet -->
+  <g transform="translate(34, 40)">
+    <circle cx="0" cy="0" r="14" fill="#FFFFFF"/>
+    <!-- Yellow helmet -->
+    <path d="M -14,-2 C -14,-14 14,-14 14,-2 Z" fill="#E65100"/>
+    <ellipse cx="0" cy="-2" rx="15" ry="3" fill="#FFB300"/>
+    <circle cx="-4" cy="2" r="1.8" fill="#333"/>
+    <circle cx="4" cy="2" r="1.8" fill="#333"/>
+    <path d="M -4,7 Q 0,11 4,7" stroke="#333" stroke-width="1.5" fill="none"/>
+  </g>
+  <text x="96" y="36" font-family="'Arial Black', sans-serif" font-weight="900" font-size="12" fill="#1A237E" text-anchor="middle">DR.</text>
+  <text x="96" y="52" font-family="'Arial Black', sans-serif" font-weight="900" font-size="20" fill="#1A237E" text-anchor="middle" letter-spacing="-0.5">FIXIT</text>
+  <rect x="10" y="54" width="140" height="12" fill="#0D47A1" rx="2"/>
+  <text x="80" y="63" font-family="'Arial', sans-serif" font-weight="800" font-size="7" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">WATERPROOFING EXPERT</text>
+</svg>

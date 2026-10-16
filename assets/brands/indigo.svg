@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80">
+  <rect x="25" y="6" width="110" height="68" rx="6" fill="#111111"/>
+  <g transform="translate(80, 30)">
+    <!-- Colorful striped zebra/swirl -->
+    <ellipse cx="0" cy="0" rx="15" ry="12" fill="#222"/>
+    <path d="M -12,2 Q -6,-10 0,-4 Q 6,-10 12,2" stroke="#E63946" stroke-width="3" fill="none"/>
+    <path d="M -10,6 Q -4,-4 2,2 Q 8,-4 10,6" stroke="#F4A261" stroke-width="3" fill="none"/>
+    <path d="M -8,10 Q -2,2 4,6 Q 8,2 8,10" stroke="#457B9D" stroke-width="3" fill="none"/>
+  </g>
+  <text x="80" y="54" font-family="'Century Gothic', 'Trebuchet MS', sans-serif" font-weight="900" font-size="14" fill="#FFFFFF" text-anchor="middle" letter-spacing="2.5">INDIGO</text>
+  <text x="80" y="66" font-family="'Segoe UI', sans-serif" font-weight="400" font-size="8" fill="#AAAAAA" text-anchor="middle" letter-spacing="0.5">Be surprised!</text>
+</svg>

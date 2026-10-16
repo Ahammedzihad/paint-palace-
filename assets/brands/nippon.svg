@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80">
+  <!-- Nippon red square with n -->
+  <rect x="18" y="18" width="42" height="42" rx="7" fill="#0A387E"/>
+  <rect x="23" y="23" width="32" height="32" rx="5" fill="#E5232A"/>
+  <text x="39" y="48" font-family="'Arial Black', sans-serif" font-weight="900" font-size="26" fill="#FFFFFF" text-anchor="middle">n</text>
+  <!-- Text -->
+  <text x="110" y="38" font-family="'Arial Black', sans-serif" font-style="italic" font-weight="900" font-size="19" fill="#0A387E" text-anchor="middle">NIPPON</text>
+  <text x="110" y="56" font-family="'Arial Black', sans-serif" font-style="italic" font-weight="900" font-size="18" fill="#0A387E" text-anchor="middle">PAINT</text>
+</svg>

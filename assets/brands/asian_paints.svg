@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80">
+  <g transform="translate(80, 32)">
+    <!-- Iconic intertwined ribbon 'ap' -->
+    <path d="M -24,8 C -36,8 -42,-6 -34,-18 C -26,-28 -12,-24 -6,-12 C -2,-4 -2,6 -2,12" fill="none" stroke="#E63946" stroke-width="6.5" stroke-linecap="round"/>
+    <path d="M -6,-12 C 0,-24 16,-26 26,-16 C 36,-6 32,8 18,10 C 6,12 -2,4 -2,-6" fill="none" stroke="#F4A261" stroke-width="6.5" stroke-linecap="round"/>
+    <circle cx="2" cy="-4" r="3.5" fill="#8338EC"/>
+  </g>
+  <text x="80" y="66" font-family="'Poppins', 'Arial', sans-serif" font-weight="700" font-size="18" fill="#E63946" text-anchor="middle" letter-spacing="-0.3">asian<tspan fill="#F4A261">paints</tspan></text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80">
+  <!-- Yellow brush paint splash -->
+  <path d="M 30,35 Q 50,15 80,18 Q 115,10 135,32 Q 145,55 120,68 Q 80,75 40,65 Q 15,55 30,35 Z" fill="#FFC107"/>
+  <text x="80" y="38" font-family="'Arial Black', sans-serif" font-weight="900" font-size="14" fill="#D32F2F" text-anchor="middle" font-style="italic">MRF</text>
+  <text x="80" y="52" font-family="'Arial Black', sans-serif" font-weight="800" font-size="13" fill="#D32F2F" text-anchor="middle">Vapocure</text>
+  <text x="80" y="65" font-family="'Arial', sans-serif" font-weight="900" font-size="11" fill="#111111" text-anchor="middle">Paints</text>
+</svg>

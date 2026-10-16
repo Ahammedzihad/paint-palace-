@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+dist/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Diagnostic and screenshot artifacts
+paint_palace_verified.png
+paint_palace_desktop_ui_mockup.png
+test_cdp.png
+
+# Diagnostic & test scripts
+capture_screenshot.py
+render_mockup.py
+test_cdp.py
+generate_brand_logos.py
+
+# Logs and scratch
+*.log
+scratch/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
