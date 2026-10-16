@@ -9,7 +9,8 @@ urls = re.findall(r'url\(["\']?([^"\'\)]+)["\']?\)', html)
 
 all_paths = set(srcs + urls)
 
-with open(r"c:\Anti Gravity\PAINT PALACE\styles.css", "r", encoding="utf-8") as f:
+css_file = os.path.join(r"c:\Anti Gravity\PAINT PALACE", "frontend", "styles", "styles.css")
+with open(css_file, "r", encoding="utf-8") as f:
     css = f.read()
 
 css_urls = re.findall(r'url\([\'"]?([^\'")]+)[\'"]?\)', css)
